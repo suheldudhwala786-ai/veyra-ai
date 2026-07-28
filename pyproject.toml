@@ -5,12 +5,16 @@
 </p>
 
 <p align="center">
-AI Voice Intelligence Platform
+  <b>AI Voice Intelligence Platform</b>
+</p>
+
+<p align="center">
+  Building realistic AI voices, intelligent speech systems, and next-generation audio experiences.
 </p>
 
 ---
 
-## Overview
+## 🚀 Overview
 
 Veyra AI is a next-generation voice intelligence platform that creates realistic AI voices, advanced text-to-speech experiences, and natural conversational audio using modern artificial intelligence.
 
@@ -18,7 +22,7 @@ Our mission is to build human-like voice experiences powered by AI for creators,
 
 ---
 
-## Features
+## ✨ Features
 
 - 🎙️ Natural AI Voice Generation
 - 🗣️ Realistic Text-to-Speech (TTS)
@@ -26,27 +30,28 @@ Our mission is to build human-like voice experiences powered by AI for creators,
 - 🤖 AI Voice Assistant Integration
 - 🎧 High-quality Audio Processing
 - ⚡ Fast Voice Generation
-- 🔊 Voice Customization & Design
+- 🔊 Voice Customization & Voice Design
+- 🧠 AI-powered Conversational Audio
 
 ---
 
-## Technology Stack
+## 🛠️ Technology Stack
 
-- Python
-- PyTorch
-- Transformers
-- AI Speech Models
-- Deep Learning
-- Audio Processing
-- Gradio Interface
+- **Python**
+- **PyTorch**
+- **Transformers**
+- **Deep Learning Models**
+- **Speech AI Technology**
+- **Audio Processing**
+- **Gradio Interface**
 
 ---
 
-## Installation
+## 📦 Installation
+
+Clone the repository:
 
 ```bash
 git clone https://github.com/suheldudhwala786-ai/veyra-ai.git
 
 cd veyra-ai
-
-pip install -r requirements.txt
